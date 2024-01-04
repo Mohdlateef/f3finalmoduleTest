@@ -1,3 +1,3 @@
 #Whether App
 
-Deploy Link :- https://imranshaikh9930whetherapp.netlify.app/
+Deploy Link :-https://mohdlateef.github.io/f3finalmoduleTest/
